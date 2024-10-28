@@ -1,4 +1,4 @@
-# Formula1Racing
+# Formula1 Racing
 This repository explores Real World Project on Formula1 Racing using Azure Databricks, Delta Lake, Unity Catalog, Azure Data Factory
 
 ## Solution Architecture

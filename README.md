@@ -25,7 +25,11 @@ This repository explores Real World Project on Formula1 Racing using Azure Datab
 
 ## Reporting Requirements
 1. Driver Standings
-2. Constructor Standings
+   ![image](https://github.com/user-attachments/assets/0e65d54f-67c6-458b-b9ed-a6da00a3fb6b)
+
+3. Constructor Standings
+   ![Uploading image.png…]()
+
 
 ## Analysis Requirements
 1. Dominant Drivers

@@ -28,7 +28,8 @@ This repository explores Real World Project on Formula1 Racing using Azure Datab
    ![image](https://github.com/user-attachments/assets/0e65d54f-67c6-458b-b9ed-a6da00a3fb6b)
 
 3. Constructor Standings
-   ![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/b82e2937-270b-44a3-8f2b-6a043fbbc42d)
+
 
 
 ## Analysis Requirements
